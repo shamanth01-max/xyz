@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pr2.maven.maven_pr2_jar.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.044 s -- in com.pr2.maven.maven_pr2_jar.AppTest
